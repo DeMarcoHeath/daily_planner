@@ -5,4 +5,4 @@ I decided to build an effective daily planner using
 Bootstrap - CSS Framework
 Jquery - JavaScript Library
 Moment.js - JavaScript Library
-
+I also added a "sneak time" and "family time" option.
